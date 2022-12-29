@@ -1,7 +1,7 @@
-title: Minimalistic
+title: RealSeason
 logo: /assets/img/logo.jpg
-email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+email: kzsc5464@naver.com
+description: Note and Blog
 favicon: true
 color-scheme: auto
 
@@ -13,16 +13,16 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/kzsc5464
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/kzsc5464
 
 navigation:
-  - name: Readme
-    link: ./index.html
+  - name: FirstName
+    link: ./_posts/index.html
     sublist:
       - name: Image
-        link: ./index.html#small-image
+        link: ./_posts/index.html#small-image
   - name: Another Page
     link: ./another-page.html
