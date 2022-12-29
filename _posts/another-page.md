@@ -2,11 +2,19 @@
 layout: post
 ---
 
-## Welcome to another page
+## Python 첫시작
 
 _yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, ~~italic_,  or  ~~strikethrough~~
 
-## 이게 제대로 될지 모르겠지만 일단 해보는 거지 뭐
+**[입력문자]**
+
+~~밑줄~~
+
+이게 제대로 될지 모르겠지만 일단
+```python
+    def name_space():
+        print("kzsc5464");
+```
 
 [back](./)
