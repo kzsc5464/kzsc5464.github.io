@@ -2,122 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+저는 1년차 서버 개발자 입니다.
+---
 
-[Link to another page](./another-page.html).
+서울에 올라온지 1년이 넘었습니다.대구에서 올라와서 1년간 지냈던 생활들은 꿈만 같았던것 같습니다.
+첫 블로글 소개글을 장식하는 글에 작게 나마 저의 소개를 해볼까 생각 합니다.대학교에서 C언어를 처음으로 시작하여 Java를 메인으로 공부하기 시작하였습니다.
 
-There should be whitespace between paragraphs.
+구현에 지쳐서 Python으로 코테를 준비하다가 매력에 빠져서 Python 개발자가 되어버린 1년차 주니어 개발자 입니다.
+사실 회사에 들어가기 전까지는 Python에 대한 호감이었지만 Pythonic을 알게되면서
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
+짧고 강력한 인상의 Python의
+매력에 빠지게 되었습니다.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+저는 1년간의 회고록.
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+정말 겨울이 찾아온것 같습니다.
+현재 Artience에서의 새롭게 준비했던 1년간의 기록들을 되짚어 보면
+많은 변화가 있었고 많은 많은 아쉬움이 많았던 내용에 대해서 적어볼까 합니다.
 
-```
-The final element.
-```
+회사에서 나는 과연 성장을 어떻게 해야 할까? 라는 생각을 굉장히 많이 했었던 시기인것 같습니다.
+
+광고회사의 서버 개발자로 지내면서 GoogleAds, FaceBook, twitter등의 많은 광고 데이터들을 다룰 수 있어서 좋았지만 '남들과 다른'이라는 차별화된 인사이트들은 스스로 찾지 못해 굉장히 많은 아쉬움이 남았었고 신입이지만 여러가지 DB성능, 로직 수정등 퍼포먼스 상향에 기여를 많이한 부분은 잘했다고 생각합니다.
+
+성장에는 도메인 지식 , 개발 지식이 어우러 져야 하지만 올해에는 개발지식에 더 기울인 탓에 도메인 지식을 많이 쌓지 못했다는 점에서는 매우 아쉬운점이 남아 이 글을 남깁니다.
+
+
+

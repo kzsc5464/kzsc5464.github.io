@@ -1,4 +1,4 @@
-title: RealSeason
+title: RealSmallman
 logo: /assets/img/logo.jpg
 email: kzsc5464@naver.com
 description: Note and Blog
@@ -14,15 +14,21 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kzsc5464
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/kzsc5464
+  # - name: LinkedIn
+  #   icon: <i class="fa-brands fa-linkedin"></i>
+  #   link: https://www.linkedin.com/in/kzsc5464
 
 navigation:
-  - name: FirstName
-    link: ./_posts/index.html
+  - name: 일상
+    link: ./index.html
     sublist:
-      - name: Image
-        link: ./_posts/index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: Server 개발자로 1년차를 맞이하며
+        link: ./index.html#저는-1년차-서버-개발자-입니다
+      - name: 2022년 회고록.
+        link: ./index.html#2022년-회고록
+
+  - name: Python 환경설정 하기
+    sublist:
+      - name: 프로세스 관리
+        link: ./2022-12-30_Python_environment.html#프로세스-관리
+    link: ./2022-12-30_Python_environment.html
